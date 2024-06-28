@@ -1,5 +1,6 @@
+![banner](https://github.com/NIRMALCHAVDA30/NIRMALCHAVDA30/assets/165412827/5a2787a0-965b-49f8-9f25-5827817a4403)
 <div align="center" height="fit-content">
-    
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=30&font=poppins+sans+serif&center=true&lines=👋+Hey!+I'm+NirmalChavda;)](https://git.io/typing-svg)
 
 </div>
