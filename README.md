@@ -1,8 +1,8 @@
 
 <div align="center" height="fit-content">
-    [![Typing
-    SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=30&font=poppins+sans+serif&center=true&lines=👋+Hey!+I'm+Nirmal+Chavda;
-    )](https://git.io/typing-svg)
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=30&font=poppins+sans+serif&center=true&lines=👋+Hey!+I'm+Nirmal+Chavda;
+)](https://git.io/typing-svg)
 
 </div>
 <h3 align="center">I Am Full Stack Web Developer</h3>
