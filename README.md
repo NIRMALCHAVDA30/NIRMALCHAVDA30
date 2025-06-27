@@ -13,7 +13,7 @@
         src="https://komarev.com/ghpvc/?username=NIRMALCHAVDA30&label=Profile%20views&color=0e75b6&style=flat"
         alt="NirmalChavda" /> </p>
 
-- 🌱 I’m currently learning **Gujarat Technological University(GTU)**
+- 🌱 I’m completed learning **Gujarat Technological University(GTU)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
